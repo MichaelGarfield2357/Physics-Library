@@ -3,6 +3,8 @@ import math
 
 g = 0.0000000000667408
 
+#test
+
 
 def gravity(mass1, x1, y1, mass2, x2, y2):
     # F = ( GMm ) / r^2
